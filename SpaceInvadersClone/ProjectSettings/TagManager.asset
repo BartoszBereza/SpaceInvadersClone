@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - SpaceShip
+  - Background
+  - Bullet
+  - Explosion
+  - Obstacle
+  - Engine
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3405943213
+    locked: 0
+  - name: Obstacle
+    uniqueID: 3976105303
+    locked: 0
+  - name: SpaceShip
+    uniqueID: 2697980527
+    locked: 0
+  - name: Bullet
+    uniqueID: 3353113973
+    locked: 0
+  - name: Engine
+    uniqueID: 3776706131
+    locked: 0
+  - name: Explosion
+    uniqueID: 2515927537
+    locked: 0
